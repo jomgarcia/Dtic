@@ -1,0 +1,44 @@
+
+<!-- Start  Logo & Naviagtion  -->
+<div class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+            <!-- Stat Toggle Nav Link For Mobiles -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <i class="fa fa-bars"></i>
+            </button>
+            <!-- End Toggle Nav Link For Mobiles -->
+            <a class="navbar-brand" routerLink="/home"><img src="assets/images/logo-dtic.png" alt="dtic"></a>
+        </div>
+        <div class="collapse navbar-collapse">
+
+            <!-- Start Navigation List -->
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a routerLinkActive="active" [routerLink]="['home']">Inicio</a>
+                </li>
+                <li >
+                    <a routerLinkActive="active" [routerLink]="['about']">Quienes Somos</a>
+
+                </li>
+                <li >
+                    <a routerLinkActive="active"  [routerLink]="['services']">Servicios</a>
+                </li>
+                <li >
+                    <a routerLinkActive="active" [routerLink]="['offices']">Oficinas</a>
+                </li>
+                <!-- <li >
+                    <a routerLinkActive="active" [routerLink]="['portafolio']">Portafolio</a>
+                </li> -->
+                <li >
+                    <a routerLinkActive="active" [routerLink]="['team']">Colaboradores</a>
+                </li>
+                <li >
+                    <a routerLinkActive="active" [routerLink]="['contact']">Contacto</a>
+                </li>
+
+            </ul>
+            <!-- End Navigation List -->
+        </div>
+    </div>
+</div>

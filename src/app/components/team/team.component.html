@@ -1,0 +1,33 @@
+<div class="page-header">
+    <div class="overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 animated pulse">
+                    <h1> Colaboradores</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Start Team Member Section -->
+<section id="team-section">
+    <div class="container">
+        <div class="row" id="boss" *ngFor="let team of boss">
+            <h2 class="team2 text-center animated fadeIn" id="team2">{{ team.Oficina }}</h2>
+            <div class="col-md-3 animated  fadeIn" *ngFor="let boss of team.Colaboradores" data-wow-duration="2s" data-wow-delay="300ms">
+                <div class="team-member text-center">
+                    <img [src]="boss.img" class="img-responsive" [alt]="boss.nombre">
+                    <div class="team-details">
+                        <h4>{{ boss.nombre }}</h4>
+                        <p>{{ boss.cargo }}</p>
+                        <p>{{ boss.tel }}</p>
+                        <p>{{ boss.correo }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- End Team Member Section -->

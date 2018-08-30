@@ -1,0 +1,214 @@
+[
+    {
+        "Oficina": "Dirección",
+        "Colaboradores": [
+            {
+                "nombre": "MGP. Sixto Chavarria Carrión",
+                "cargo": "Director DTIC-UNI",
+                "img": "assets/images/personal/sixto.jpg",
+                "tel": "22784354 Ext: 104",
+                "correo": "sixto.chavarria@dtic.uni.edu.ni"
+            },
+            {
+                "nombre": "Lic. Lorena del Carmen Delgado",
+                "cargo": "Asistente Administrativa",
+                "img": "assets/images/personal/lorena.jpg",
+                "tel": "22784354 - 22784984",
+                "correo": " lorena.delgado@dtic.uni.edu.ni"
+            }
+        ]
+    },
+    {
+        "Oficina": "Sistemas de Información",
+        "Colaboradores": [
+          {
+            "nombre": "Ing. Luis Eduardo",
+            "cargo": "Responsable Oficina Sistema de Información",
+            "img": "assets/images/personal/luis.jpg",
+            "tel": "22784354 Ext: 103",
+           "correo": "luis.perez@uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Jorge Ruiz",
+            "cargo": "Responsable de Unidad Sistema de Información",
+            "img": "assets/images/personal/george.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "jorge.ruiz@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Esperanza Castillo",
+            "cargo": "Analista de Sistemas",
+            "img": "assets/images/personal/esperanza.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "esperanza.castillo@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. María Isabel Tellez",
+            "cargo": "Analista de Sistemas",
+            "img": "assets/images/personal/isabel.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "maria.tellez@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Yahaira Altamirano",
+            "cargo": "Analista de Sistemas",
+            "img": "assets/images/personal/yahaira.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "yahaira.altamirano@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Walter Corrales",
+            "cargo": "Analista de Sistemas",
+            "img": "assets/images/personal/walter.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "walter.corrales@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Daniel Zamora",
+            "cargo": "Analista de Sistemas",
+            "img": "assets/images/personal/daniel n.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "daniel.zamora@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. yasser montiel ",
+            "cargo": "Analista de Sistemas",
+            "img": "assets/images/personal/yasser.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "yasser.montiel@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Jorge Abraham Torres",
+            "cargo": "Analista de Sistemas",
+            "img": "assets/images/personal/torres.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "jorge.torres@dtic.uni.edu.ni"
+          },
+          {
+           "nombre": "Ing. Ronny Martinez",
+            "cargo": "Responsable de Unidad Sistema de Información",
+            "img": "assets/images/personal/ronny.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "ronny.martinez@dtic.uni.edu.ni"
+          },
+          {
+           "nombre": "Ing. Jorge Reyes",
+            "cargo": "Analista de Sistemas",
+            "img": "assets/images/personal/jorge reyes.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "jorge.reyes@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Silvio Ramos",
+            "cargo": "Analista de Sistemas",
+            "img": "assets/images/personal/silvio.jpg",
+            "tel": "22784354 Ext: 105",
+            "correo": "silvio.ramos@dtic.uni.edu.ni"
+          }
+        ]
+      },
+    {
+        "Oficina": " Administración de Servidores",
+        "Colaboradores": [
+            {
+                "nombre": "Ing. Walter Pérez Arauz",
+                "cargo": "Resp de Administración de Servidores",
+                "img": "assets/images/personal/walter perez.jpg",
+                "tel": "22784354 Ext: 106",
+                "correo": "walter.perez@dtic.uni.edu.ni"
+            },
+            {
+                "nombre": "Ing. Rollman Mendoza",
+                "cargo": "Responsable de Unidad",
+                "img": "assets/images/personal/rollman.jpg",
+                "tel": "22784354 Ext: 106",
+                "correo": "rollman.mendoza@dtic.uni.edu.ni"
+            },
+            {
+                "nombre": "Ing. Nubia Altamirano",
+                "cargo": "Técnico en Informática",
+                "img": "assets/images/personal/nubia.jpg",
+                "tel": "22784354 Ext: 106",
+                "correo": "nubia.altamirano@dtic.uni.edu.ni"
+            },
+            {
+                "nombre": "Ing. Karen Gonzalez",
+                "cargo": "Técnico en Informática",
+                "img": "assets/images/personal/Karen.jpg",
+                "tel": "22784354 Ext: 106",
+                "correo": "karen.gonzalez@dtic.uni.edu.ni"
+            }
+        ]
+    },
+
+    {
+        "Oficina": "Soporte Técnico e Infraestructura",
+        "Colaboradores": [
+          {
+          "nombre": "Ing. Carlos Emilio Rodríguez",
+            "cargo": "Responsable de Soporte e Infraestructura",
+           "img": "assets/images/personal/carlos.jpg",
+           "tel": "22784354 Ext: 102",
+            "correo": "carlos.rodriguez@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Jader Altamirano",
+            "cargo": "Responsable de Unidad soporte técnico e Infraestructura",
+            "img": "assets/images/personal/yader.jpg",
+            "tel": "22784354 Ext: 102",
+            "correo": "jader.altamirano@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Jonathan Altamirano",
+            "cargo": "Técnico en Informática",
+            "img": "assets/images/personal/jon.jpg",
+            "tel": "22784354 Ext: 132",
+            "correo": "jonathan.altamirano@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Isaac Jiménez",
+            "cargo": "Técnico en Informática",
+            "img": "assets/images/personal/isaac.jpg",
+            "tel": "22784354 Ext: 102",
+            "correo": "isaac.jimenez@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Esmar Salgado",
+           "cargo": "Técnico en Informática",
+            "img": "assets/images/personal/esmar.jpg",
+            "tel": "22784354 Ext: 102",
+            "correo": "esmar.salgado@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Jean Valencia",
+            "cargo": "Técnico en Informática",
+            "img": "assets/images/personal/fransua.jpg",
+            "tel": "22784354 Ext: 102",
+            "correo": "jean.valencia@dtic.uni.edu.ni"
+          },
+          {
+            "nombre": "Ing. Guy Sanchez",
+           " cargo": "Técnico en Informática",
+            "img": "assets/images/personal/gui.jpg",
+            "tel": "22784354 Ext: 102",
+            "correo": "guy.sanchez@dtic.uni.edu.ni"
+          }
+     ]
+
+},
+{
+    "Oficina": "Webmaster",
+    "Colaboradores": [
+        {
+            "nombre": "Ing. José García Castro",
+            "cargo": "Webmaster",
+            "img": "assets/images/personal/josemaria.jpg",
+            "tel": "22784354 Ext: 107",
+            "correo": "jose.garcia@dtic.uni.edu.ni"
+        }
+    ]
+}
+
+
+
+]
